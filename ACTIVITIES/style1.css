@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('purple-violet-abstract-watercolor-vector-background-snowfall-cold-blue-winter-background-hand-painted-watercolor-sky-clouds_548264-301.avif');
+    background-size:cover;
+    
+}
+ body .learning{
+    background-image: url('purple-pink-watercolor-texture-background_1083-169.avif');
+}
+
+nav a{
+
+    gap: 10%;
+    text-decoration: none;
+    
+}
+li{
+    
+    gap: 20px;
+    text-decoration: none;
+    list-style: none;
+   
+}
+nav{
+    display: flex;
+    gap:10%;
+    text-decoration: none;
+    margin-top: 2%;
+    margin-left: 35%;
+    
+}
+.act{
+    margin-top: 15%;
+    gap:20px;
+}
+.first{
+    margin-left: 40%;
+    margin-top: 10%;
+    font-size: 25px;
+}
+.title{
+    text-shadow: 20px solid violet;
+    margin-left: 15%;
+    margin-top: 20px;
+    font-size: 80px;
+}
+.para{
+     
+    margin-left:20% ;
+    font-size: 20px;
+}
+.para4{
+    background-image: url('purple-pink-watercolor-texture-background_1083-169.avif');
+    box-shadow: 5px 10px 10px purple;
+    border: 2px solid purple;
+    border-radius: 20px;
+    font-size: 40px;
+}
+.h1{
+
+    text-align: center;
+    font-size: 70px;
+}
